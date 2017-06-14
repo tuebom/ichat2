@@ -21,7 +21,7 @@
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
 	<gap:plugin name="cordova-plugin-statusbar" source="npm" />
 	<gap:plugin name="cordova-plugin-ionic-keyboard" source="npm" />
-	<gap:plugin name="cordova-sqlite-storage" source="npm" />
+	<gap:plugin name="cordova-sqlite-storage" spec="~1.5.1" />
   <!--<gap:plugin name="cordova-plugin-admobpro" source="npm" />-->
   <!--<gap:plugin name="cordova-plugin-console" source="npm" />
   <plugin name="cordova-plugin-splashscreen" source="npm" />
